@@ -24,5 +24,7 @@ numpy <br>
 ![](https://github.com/zpr1994/billclassification/raw/master/plt/acc.jpg)
 
 基于交叉检验中最好结果--损失折线图 <br>
+![](https://github.com/zpr1994/billclassification/raw/master/plt/loss.jpg)
 
 基于交叉检验中最好结果--5类准确率柱状图 <br>
+![](https://github.com/zpr1994/billclassification/raw/master/plt/simple_bar.jpg)
