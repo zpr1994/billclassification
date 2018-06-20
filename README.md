@@ -28,3 +28,4 @@ numpy <br>
 
 基于交叉检验中最好结果--5类准确率柱状图 <br>
 ![](https://github.com/zpr1994/billclassification/raw/master/plt/simple_bar.jpg)
+准确率都可以达到100%，可以认为是训练集的数据分布，包含了测试集的数据分布。
