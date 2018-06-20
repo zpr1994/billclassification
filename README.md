@@ -21,7 +21,7 @@ numpy <br>
 
 ## 结果
 基于交叉检验中最好结果--准确率折线图 <br>
-https://github.com/zpr1994/billclassification/raw/master/plt/acc.jpg
+![](https://github.com/zpr1994/billclassification/raw/master/plt/acc.jpg)
 
 基于交叉检验中最好结果--损失折线图 <br>
 
