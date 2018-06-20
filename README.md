@@ -8,7 +8,7 @@ numpy <br>
 
 ## 数据集
 票据图像总共五类：车票、定额发票、机打发票、机打小票和财务报销单，共765张。 <br>
-下载链接：未完成 <br>
+下载链接：https://pan.baidu.com/s/1S2LzHe_DQ35B-KlpoWUBVw <br>
 
 ## 标注
 标注文件位于 billcalssificaiton/label <br>
